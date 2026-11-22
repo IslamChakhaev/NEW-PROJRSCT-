@@ -1,0 +1,3 @@
+HCI is awesome!
+Human-Computer Interaction makes technology easier to use.
+Good user interfaces should be simple and intuitive.
